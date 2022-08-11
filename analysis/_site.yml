@@ -7,6 +7,8 @@ navbar:
     href: index.html
   - text: PCA
     href: PCA.html
+  - text: Test
+    href: test.html    
   - text: About
     href: about.html
   - text: License
@@ -17,3 +19,4 @@ output:
     toc_float: yes
     theme: cosmo
     highlight: textmate
+  
