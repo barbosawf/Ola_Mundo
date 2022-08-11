@@ -2,7 +2,9 @@
 title: "test"
 author: "Wagner Faria Barbosa"
 date: "2022-08-11"
-output: workflowr::wflow_html
+output:
+  workflowr::wflow_html:
+    toc: true
 editor_options:
   chunk_output_type: console
 ---
