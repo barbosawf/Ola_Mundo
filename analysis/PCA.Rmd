@@ -1,7 +1,5 @@
 ---
 title: "PCA"
-author: "Wagner Faria Barbosa"
-date: "2022-08-10"
 output:
   workflowr::wflow_html:
     toc: false
