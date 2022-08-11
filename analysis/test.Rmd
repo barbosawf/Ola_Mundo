@@ -1,20 +1,31 @@
 ---
-title: "test"
+title: "Testing"
 author: "Wagner Faria Barbosa"
 date: "2022-08-11"
 output:
   workflowr::wflow_html:
     toc: true
+editor_options:
+  chunk_output_type: console
 ---
 
 ## Introduction
 
-```{r}
+Some background and justification was presented .
 
-```
+## Material and Methods
 
-## Outro titulo
+### Data collection
+Some data was collected.
 
-dfadfa
+### Applying methods
+Some method was used.
 
-# Outro
+## Results
+Some results was obtained.
+
+## Discussion
+There is nothing to declare with some nothing.
+
+## Acknowledgments
+Just bye!
