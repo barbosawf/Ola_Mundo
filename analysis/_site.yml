@@ -1,10 +1,12 @@
-name: "YourRepositoryName"
+name: "Ola_Mundo"
 output_dir: ../docs
 navbar:
-  title: "YourRepositoryName"
+  title: "Ola_Mundo"
   left:
   - text: Home
     href: index.html
+  - text: PCA
+    href: PCA.html
   - text: About
     href: about.html
   - text: License
