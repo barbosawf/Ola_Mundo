@@ -1,7 +1,7 @@
 name: "Ola_Mundo"
 output_dir: ../docs
 navbar:
-  title: "Olá Mundo"
+  title: "Ola_Mundo"
   left:
   - text: Home
     href: index.html
